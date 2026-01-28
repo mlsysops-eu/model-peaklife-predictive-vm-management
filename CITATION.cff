@@ -1,0 +1,45 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  # PeakLife (ONNX) — VM Utilization + Remaining Lifetime
+  Predictor
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Sun
+    family-names: Bowen
+    email: bsun@uth.gr
+    affiliation: 'University of Thessaly, Greece'
+    orcid: 'https://orcid.org/0009-0001-4939-3154'
+  - given-names: Christos
+    name-particle: D.
+    family-names: Antonopoulos
+    email: cda@uth.gr
+    affiliation: University of Thessaly
+    orcid: 'https://orcid.org/0000-0002-6486-062X'
+  - given-names: Evgenia
+    family-names: Smirni
+    email: esmirni@cs.wm.edu
+    affiliation: College of William & Mary
+    orcid: 'https://orcid.org/0000-0001-8754-581X'
+  - given-names: Bin
+    family-names: Ren
+    email: bren@cs.wm.edu
+    affiliation: College of William & Mary
+    orcid: 'https://orcid.org/0000-0002-4116-5237'
+  - given-names: Nikolaos
+    family-names: Bellas
+    email: nbellas@uth.gr
+    affiliation: University of Thessaly
+    orcid: 'https://orcid.org/0000-0002-9522-9136'
+  - given-names: Spyros
+    family-names: Lalis
+    email: lalis@uth.gr
+    affiliation: University of Thessaly
+    orcid: 'https://orcid.org/0000-0003-2232-3559'
+repository-code: >-
+  https://github.com/mlsysops-eu/model-peaklife-predictive-vm-management
+version: 1.0.0
+date-released: '2026-01-28'
