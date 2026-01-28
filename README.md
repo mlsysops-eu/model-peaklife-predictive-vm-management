@@ -58,8 +58,8 @@ It is recommended to use a virtual environment to keep dependencies isolated.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/tgasla/MLSysOps-VM-Management-Agent.git
-cd MLSysOps-VM-Management-Agent
+git clone https://github.com/mlsysops-eu/model-peeklife-predictive-vm-management
+cd model-peeklife-predictive-vm-management
 ```
 
 ### 2. Create and Activate Virtual Environment
